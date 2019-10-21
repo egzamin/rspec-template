@@ -1,4 +1,4 @@
-## Testowanie aplikacji w Ruby, matwb@ug.edu.pl
+## Testowanie aplikacji w Ruby
 
 ![GIT](images/github_in_case_of_fire.png)
 
@@ -10,7 +10,6 @@ Podręczne linki:
     - [rspec-expectations](https://github.com/rspec/rspec-expectations)
     - [rspec-mocks](https://github.com/rspec/rspec-mocks)
 
-
 ## TODO
 
 1. [ ] Learn X in Y minutes, where X = [Ruby Array/Enumerable](/)
@@ -21,4 +20,5 @@ Podręczne linki:
 ## Zadania
 
 1. [ ] Coś do przetestowania na początek (Exercism, minitest v. rspec)
+1. [ ] [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
 1. [ ] Program/Biblioteka/Aplikacja WWW
