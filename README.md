@@ -1,9 +1,4 @@
 ## Testowanie aplikacji w Ruby
-<<<<<<< HEAD
-=======
-
-![GIT](images/github_in_case_of_fire.png)
->>>>>>> codequizzes/Ruby_TDD_Strings_and_Integers
 
 Podręczne linki:
 
@@ -12,15 +7,9 @@ Podręczne linki:
     - [rspec-core](https://github.com/rspec/rspec-core)
     - [rspec-expectations](https://github.com/rspec/rspec-expectations)
     - [rspec-mocks](https://github.com/rspec/rspec-mocks)
-<<<<<<< HEAD
 
 ## TODO
 
-=======
-
-## TODO
-
->>>>>>> codequizzes/Ruby_TDD_Strings_and_Integers
 1. [ ] Learn X in Y minutes, where X = [Ruby Array/Enumerable](/)
     - [Hash](http://ruby-doc.org/core-2.2.3/Hash.html)
     - [Array](http://ruby-doc.org/core-2.2.3/Array.html)
@@ -28,10 +17,6 @@ Podręczne linki:
 
 ## Zadania
 
-1. [ ] Coś do przetestowania na początek (Exercism, minitest v. rspec)
-1. [ ] [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
-<<<<<<< HEAD
-1. [ ] [Code Climate](https://codeclimate.com/) – actionable metrics for engineering leaders
-=======
->>>>>>> codequizzes/Ruby_TDD_Strings_and_Integers
-1. [ ] Program/Biblioteka/Aplikacja WWW
+1. [ ] Coś do przetestowania – Exercism (8 easy, 8 medium, 1 hard)
+2. [ ] [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
+3. [ ] [Code Climate](https://codeclimate.com/) – actionable metrics for engineering leaders
