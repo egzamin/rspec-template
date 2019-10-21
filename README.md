@@ -1,7 +1,5 @@
 ## Testowanie aplikacji w Ruby, matwb@ug.edu.pl
 
-![GIT](images/github_in_case_of_fire.png)
-
 Podręczne linki:
 
 1. [Better Specs](http://betterspecs.org/).
@@ -9,7 +7,6 @@ Podręczne linki:
     - [rspec-core](https://github.com/rspec/rspec-core)
     - [rspec-expectations](https://github.com/rspec/rspec-expectations)
     - [rspec-mocks](https://github.com/rspec/rspec-mocks)
-
 
 ## TODO
 
