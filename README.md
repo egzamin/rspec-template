@@ -18,4 +18,6 @@ Podręczne linki:
 ## Zadania
 
 1. [ ] Coś do przetestowania na początek (Exercism, minitest v. rspec)
+1. [ ] [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
+1. [ ] [Code Climate](https://codeclimate.com/) – actionable metrics for engineering leaders
 1. [ ] Program/Biblioteka/Aplikacja WWW
