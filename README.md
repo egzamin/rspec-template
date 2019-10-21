@@ -17,6 +17,6 @@ Podręczne linki:
 
 ## Zadania
 
-1. [ ] Coś do przetestowania – Exercism (8 easy, 8 medium, 1 hard)
-2. [ ] [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
+1. [ ] Exercism (8 easy, 8 medium, 1 hard)
+2. [ ] [Travis CI](https://travis-ci.org/) - test and deploy with confidence
 3. [ ] [Code Climate](https://codeclimate.com/) – actionable metrics for engineering leaders
